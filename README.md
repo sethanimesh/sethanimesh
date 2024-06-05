@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Animesh 👋
+
+🧑🏻‍💻 Studying Computer Science and Business Systems at Vellore Institute of Technology, Vellore<br/>
+🌱 Currently learning about Java Development and Machine Learning Tools<br/>
 
 <!--
 **sethanimesh/sethanimesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Animesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sethanimesh)](https://github.com/sethanimesh/github-readme-stats)
