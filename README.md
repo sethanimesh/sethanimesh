@@ -1,7 +1,5 @@
 ![alt text](https://github.com/sethanimesh/sethanimesh/blob/main/Animesh_Seth_banner.png?raw=true)
 
-
-# 💫 About Me
 🧑🏻‍💻 Studying Computer Science and Business Systems at Vellore Institute of Technology, Vellore<br>🌱 Currently learning about Java Development and Machine Learning Tools
 
 
